@@ -1,0 +1,15 @@
+
+<h1><a href="http://www.rayke.pe"><h1>My own company's website</h1></a>
+
+<h3>I'm a Telecom Engineer with Networking Background, worked for ISP for 3 years then for Telco Vendor for 3 years, actually I'm working in a Consultancy Services Company for a Fintech Project in a local Assurement company as a Data Engineer.</h3>
+<br>
+<h2>My Skills</h2>
+<div>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" width="100" height="100">
+<p>
