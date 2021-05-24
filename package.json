@@ -10,6 +10,19 @@
     "vite": "^2.3.0"
   },
   "dependencies": {
+    "firebase-tools": "^9.11.0",
     "three": "^0.128.0"
-  }
+  },
+  "description": "- Watch the [full tutorial](https://youtu.be/Q7AOvWpIVHU) on YouTube - [Scrollable Three.js Animation](https://fireship.io/snippets/threejs-scrollbar-animation) Snippet",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obahamondev/threejs-scroll-animation-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obahamondev/threejs-scroll-animation-demo/issues"
+  },
+  "homepage": "https://github.com/obahamondev/threejs-scroll-animation-demo#readme"
 }

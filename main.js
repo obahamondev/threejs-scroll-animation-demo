@@ -9,6 +9,8 @@ const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
 
 const renderer = new THREE.WebGLRenderer({
+  
+  
   canvas: document.querySelector('#bg'),
 });
 
@@ -60,12 +62,12 @@ Array(200).fill().forEach(addStar);
 
 // Background
 
-const spaceTexture = new THREE.TextureLoader().load('space.jpg');
+const spaceTexture = new THREE.TextureLoader().load('https://s3.amazonaws.com/rayke.pe/ob/space.jpg');
 scene.background = spaceTexture;
 
 // Avatar
 
-const jeffTexture = new THREE.TextureLoader().load('OB.jpg');
+const jeffTexture = new THREE.TextureLoader().load('https://s3.amazonaws.com/rayke.pe/ob/OB.jpg');
 
 const jeff = new THREE.Mesh(new THREE.BoxGeometry(3, 3, 3), new THREE.MeshBasicMaterial({ map: jeffTexture }));
 
@@ -73,8 +75,8 @@ scene.add(jeff);
 
 // Moon
 
-const moonTexture = new THREE.TextureLoader().load('moon.jpg');
-const normalTexture = new THREE.TextureLoader().load('normal.jpg');
+const moonTexture = new THREE.TextureLoader().load('https://s3.amazonaws.com/rayke.pe/ob/moon.jpg');
+const normalTexture = new THREE.TextureLoader().load('https://s3.amazonaws.com/rayke.pe/ob/normal.jpg');
 
 const moon = new THREE.Mesh(
   new THREE.SphereGeometry(3, 32, 32),
